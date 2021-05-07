@@ -4,6 +4,7 @@ So one day we were in the solar car shop and found a dynamometer was was rated t
 
 * First, for solar car we want to see if we can get a dyno setup that will measure the entire system losses including the VxI into the motor controller and the TxW out of the motor to get a system loss metric. We want to see if we can find a strategy to do that with this setup because then we can do a drop-in replacement with the larger system. 
 * We want to use the dyno to see how well torque control works with the SparkMAX motors! 
+* Find out NEO Motor Torque/speed data @ 24V as opposed to 12V.
 
 We will use a lot of the same roborio firmware as the hoppy-leg test, we may do dyno before we do hoppy leg. The final code will be linked but until then only the python code will be linked for the dyno. 
 
