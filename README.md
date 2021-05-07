@@ -6,3 +6,9 @@ So one day we were in the solar car shop and found a dynamometer was was rated t
 * We want to use the dyno to see how well torque control works with the SparkMAX motors! 
 
 We will use a lot of the same roborio firmware as the hoppy-leg test, we may do dyno before we do hoppy leg. The final code will be linked but until then only the python code will be linked for the dyno. 
+
+LINKS:
+https://www.interfaceforce.com/products/torque-transducers/rotary/t8-general-purpose-shaft-style-rotary-torque-transducer/
+
+SOFTWARE:
+https://www.interfaceforce.com/support/software-and-drivers/
