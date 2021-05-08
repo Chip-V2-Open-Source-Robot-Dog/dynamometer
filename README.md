@@ -1,4 +1,4 @@
-# Two-Motor Dyno System
+# "Dino" the Dynamometer
 
 So one day we were in the solar car shop and found a dynamometer was was rated to 20Nm, now we definetly couldn't use something like this for our actual motors as our motors go up to at least 40Nm on solar car, but we definetly could use it for Chip! We want to do this for a few reasons. 
 
