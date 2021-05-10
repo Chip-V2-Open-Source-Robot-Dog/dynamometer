@@ -15,3 +15,8 @@ SOFTWARE:
 https://www.interfaceforce.com/support/software-and-drivers/
 
 ### Credits + References:
+
+MIT Biomimetic Robotics Lab 
+Professor Sangbae Kim
+Elijah B. Stranger-Jones
+Quang Kieu 
