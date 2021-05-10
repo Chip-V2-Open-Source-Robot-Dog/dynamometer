@@ -13,3 +13,5 @@ https://www.interfaceforce.com/products/torque-transducers/rotary/t8-general-pur
 
 SOFTWARE:
 https://www.interfaceforce.com/support/software-and-drivers/
+
+### Credits + References:
