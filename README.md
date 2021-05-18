@@ -20,3 +20,4 @@ MIT Biomimetic Robotics Lab;
 Professor Sangbae Kim;
 Elijah B. Stranger-Jones;
 Quang Kieu 
+Name Credits: Fischer Moseley
