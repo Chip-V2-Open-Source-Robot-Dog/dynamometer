@@ -19,5 +19,5 @@ https://www.interfaceforce.com/support/software-and-drivers/
 MIT Biomimetic Robotics Lab; 
 Professor Sangbae Kim;
 Elijah B. Stranger-Jones;
-Quang Kieu 
+Quang Kieu; 
 Name Credits: Fischer Moseley
