@@ -14,6 +14,16 @@ https://www.interfaceforce.com/products/torque-transducers/rotary/t8-general-pur
 SOFTWARE:
 https://www.interfaceforce.com/support/software-and-drivers/
 
+### Updates
+
+(Initial Stuff) https://www.adim.io/post/dyno-update-yes-a-dyno-updates
+
+(Adi Confuses Himself) https://www.adim.io/post/dino-updates-initial-tests-w--datalogging-current-control-and-etc-updates
+
+(Adi Confuses Himself More) https://www.adim.io/post/dino-control-updates-getting-new-interfaces-between-the-jetson-and-the-rio-updates
+
+(We're Less Confused + Have a Better Plan) https://www.adim.io/post/dino-updates-talked-to-elijah-and-andrew-a-little-updates
+
 ### Credits + References:
 
 MIT Biomimetic Robotics Lab; 
