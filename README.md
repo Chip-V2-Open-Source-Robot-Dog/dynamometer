@@ -24,6 +24,8 @@ https://www.interfaceforce.com/support/software-and-drivers/
 
 (We're Less Confused + Have a Better Plan) https://www.adim.io/post/dino-updates-talked-to-elijah-and-andrew-a-little-updates
 
+(Woah... Progress) https://www.adim.io/post/dyno-updates-new-power-supply-e-stop-and-further-testing-updates
+
 ### Credits + References:
 
 MIT Biomimetic Robotics Lab; 
