@@ -26,6 +26,8 @@ https://www.interfaceforce.com/support/software-and-drivers/
 
 (Woah... Progress) https://www.adim.io/post/dyno-updates-new-power-supply-e-stop-and-further-testing-updates
 
+(Real Data??? How??) https://www.adim.io/post/dyno-updates-fixing-the-update-rate-of-the-system-rio-loop-speed-updates
+
 ### Credits + References:
 
 MIT Biomimetic Robotics Lab; 
